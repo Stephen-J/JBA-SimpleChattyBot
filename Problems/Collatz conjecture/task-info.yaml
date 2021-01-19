@@ -8,8 +8,5 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4667#comment
-status: Unchecked
-feedback:
-  message: Failed to get check result from JetBrains Academy
-  time: Tue, 19 Jan 2021 17:34:02 UTC
+status: Solved
 record: -1
